@@ -4,7 +4,7 @@ title: Hosting my own Ghost on my Raspberry Pi
 date: '2021-12-03 17:54:34'
 tags:
 - infrastructure
-- ghost-tag
+- ghost
 - lovecract
 - rasberry-pi
 ---
