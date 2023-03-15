@@ -1,10 +1,15 @@
 ---
 layout: post
-title: Jekyll
+title: The Ghost is dead
 tags:
 - infrastructure
 - jekyll
+date: 2023-03-15 20:39 +0000
 ---
+![Gothic London](/assets/gothic_london.png)
+> Generated with Estilovintedois
+> 
+> prompt: estilovintedois, masterpiece, best quality, gothic, night, london, victorian, dr jekyll
 
 As it turns out trying to upgrade your `Ghost` server when suffering badly from insomnia is not a great idea.
 Something went wrong with the upgrade and not only did it completely bork my database, but it also wiped all of my `Ghost` server configuration which I may have forgotten to back up.
