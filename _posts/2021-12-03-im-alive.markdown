@@ -1,0 +1,18 @@
+---
+layout: post
+title: Its (a)live
+date: '2021-12-03 16:46:22'
+tags:
+- infrastructure
+---
+
+![Frankenstine GIF](/assets/frank.gif)
+
+It took a while but with a lot of swearing at DNS servers and router configuration screens I finally have a Ghost blog back up. It is self hosted on a raspberry pi so we will need to see how long it stays up (my money is on less than a week)
+
+This blog has a few purposes:
+
+- Track what I have learned in my 10% time through work.
+- Reinforce that learning by having to journal what, where, how and why.
+- Be a log / gallery of my astro-photography.
+- May also include archery and unicorns!
