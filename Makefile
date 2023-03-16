@@ -1,4 +1,4 @@
-.PHONY: serve build
+.PHONY: serve build deploy remote_deploy
 
 serve:
 	bundle exec jekyll serve --drafts
