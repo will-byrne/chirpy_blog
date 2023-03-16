@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Ghost is dead
+categories:
+- Blog
 tags:
 - infrastructure
 - jekyll

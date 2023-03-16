@@ -2,6 +2,8 @@
 layout: post
 title: Hosting my own Ghost on my Raspberry Pi
 date: '2021-12-03 17:54:34'
+categories:
+- Blog
 tags:
 - infrastructure
 - ghost
