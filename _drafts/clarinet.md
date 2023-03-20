@@ -81,6 +81,29 @@ Even though I hadn't been enjoying it I was really annoyed with the situation, a
 ### The decision
 Not long after quiting the orchestra I realised that I was not playing the clarinet anymore, I was performing a chore.
 I never practiced and when I did play it there was not fun, no wonder, no feeling of freedom like when I used to jam with my old teacher.
-With a heavy heart I stopped my clarinet lessons and put it away saying that I would try again in a few years. Those few years never turned out to be a lot longer that I ever thought they would be.
+With a heavy heart I stopped my clarinet lessons and put it away saying that I would try again in a few years. Those few years turned out to be a lot longer than I ever thought they would be.
 
 ## Meanwhile
+### The quest
+Just because I had put up the clarinet did not mean I was done with music, I was going into my lower 6th year at school and decided to try a few different instruments to see if I could recapture that clarinet energy
+
+### Instruments
+Over the next two years I tried a few instruments, some I took lessons for and other I either borrowed a friends or used a school instrument.
+Here is the list:
+- Flute: Played one we had at home and was never able to get far with it, probably because I never had lessons it just took long to make any progress with it.
+- Drums: Used the school drum-kit, while it was fun and cathartic I never took lessons and there was no magic there.
+- Electric Guitar: I used my sister guitar and took lessons at school. I had a good teacher, but we focussed more on learning to emulate other players and not my own skill or style so this only lasted a year.
+- Electric Violin: For my Design and Technology: resistant materials A-Level I made an electric violin (because I could think of anything else to make). I was half way though making it when I realised I should probably take some lessons so that I could actually play the thing. The teacher was really boring and there was no spark so while I still have my violin I haven't played it since 2005.
+- Keyboard: I always wanted to also learn the piano / keyboard but never took lessons, I used to go use the school keyboards to try and learn but the left hand / bass clef was too much to try and learn while also studying my A-Levels so this never progressed.
+
+### Fast-forward to 2016
+In 2016, I had emailed a local cello teacher asking about lessons and after a few phone calls I had my first lesson. I had been listening to cello music for years, Bach's cello suite is one of my all-time favourite pieces of music along with Apocalyptica being one of my favourite bands.   
+I finished my first lesson and was hooked immediately. The spark was back, the struggle to learn bass clef after being treble for so long was real but playing the instrument I found so much joy.
+Where the clarinet was and expression of freedom for me, the cello was a more meditative almost zen like experience. From the start I explained that I had no interest in grades and was only playing for my own enjoyment and my teacher was fine with that.
+
+Last year (2022) I finally bought my own cello after renting one from my teacher for so long. I wanted to play electric cello and after much research (like the clarinet I was unable to try one before buying it) I picked out the NS Design CR4 with a carbon fibre bow from Kolstein.
+Unfortunately, the cello was very expensive, and I was only able to afford a small practice amp (battery powered) until later in the year and while it was just about sufficient for playing at home with headphones it was really lacking the power for the bass notes on the cello.
+A friend who plays the electric guitar was visiting and brought his amp, cabinet and pedals, so he could practice for a gig and was happy for me to try them and the sound was phenomenal. Very quickly I had ordered my own amplifier, the [Victory V4 the Jack](https://www.victoryamps.com/product/v4-the-jack-guitar-amp/) and cabinet [Victory 12 inch Vintage](https://www.victoryamps.com/product/v112-v/).
+Hopefully my neighbors are not too annoyed about that, even with the amp turned way down it is very loud.
+
+##
