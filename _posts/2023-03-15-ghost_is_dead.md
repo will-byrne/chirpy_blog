@@ -8,11 +8,6 @@ tags:
 - jekyll
 date: 2023-03-15 20:39 +0000
 ---
-![Gothic London](/assets/gothic_london.png)
-> Generated with Estilovintedois
-> 
-> prompt: estilovintedois, masterpiece, best quality, gothic, night, london, victorian, dr jekyll
-
 As it turns out trying to upgrade your `Ghost` server when suffering badly from insomnia is not a great idea.
 Something went wrong with the upgrade and not only did it completely bork my database, but it also wiped all of my `Ghost` server configuration which I may have forgotten to back up.
 I am pretty certain that I did something wrong, I wasn't exactly paying a lot of attention to what the upgrade docs were saying in regard to risks and breaking changes.
@@ -22,6 +17,11 @@ Having lost my previous setup I decided to look into something that was a bit mo
 Google was no help here, when searching for a new platform all I could find were adverts for `WordPress` which I refuse to use given prior experience.
 
 ## Enter Jekyll
+![Gothic London](/assets/gothic_london.png)
+> Generated with Estilovintedois
+>
+> prompt: estilovintedois, masterpiece, best quality, gothic, night, london, victorian, dr jekyll
+
 `Jekyll` is a lightweight static page generator that is very customizable and can be as simple or complex as you want to make it.
 Getting it up and running on my local machine was a snap (even for a `Ruby` gem) and within 30 or so sleep-deprived minutes I was happily breaking the config and making a nuisance of myself.
 The basic premise is that you write your posts and pages in `markdown` and either create a theme using the sample template or download one someone else has made (I am using [Chirpy](https://chirpy.cotes.page/) as I am definitely no designer).
